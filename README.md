@@ -1,5 +1,9 @@
 # 🎁 Gift Glow Creations
 
+## 📊 Project Presentation
+
+[📄 Click Here to View Our Project Presentation](presentation/HANDMADE%20E-COMMERCE%20BUSINESS.pdf)
+
 ## 🎀 Our Handmade Product Gallery
 
 Explore our collection of handmade and customised creations, designed with love by Gift Glow Creations.
