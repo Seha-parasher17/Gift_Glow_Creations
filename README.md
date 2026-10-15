@@ -12,6 +12,10 @@ Explore our collection of handmade and customised creations, designed with love 
 |:---:|:---:|
 | <img src="product-images/IMG_3946.jpeg" width="250"> | <img src="product-images/IMG_1032.jpeg" width="250"> |
 
+| Product 5 | Product 6 |
+|:---:|:---:|
+| <img src="product-images/32A88BD9-73CA-4921-853B-D919E79F1393.jpeg" width="250"> | <img src="product-images/2cce41f5-33cb-41eb-889b-2deb7a195e6b.jpeg" width="250"> |
+
 ✨ Every creation is handmade with love, creativity and care.
 
 ## 👩‍💻 Project Team & Contributions
