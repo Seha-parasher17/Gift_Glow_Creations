@@ -1,5 +1,19 @@
 # 🎁 Gift Glow Creations
 
+## 🎀 Our Handmade Product Gallery
+
+Explore our collection of handmade and customised creations, designed with love by Gift Glow Creations.
+
+| Product 1 | Product 2 |
+|:---:|:---:|
+| <img src="product-images/IMG_5989.jpeg" width="250"> | <img src="product-images/IMG_3959.jpeg" width="250"> |
+
+| Product 3 | Product 4 |
+|:---:|:---:|
+| <img src="product-images/IMG_3946.jpeg" width="250"> | <img src="product-images/IMG_1032.jpeg" width="250"> |
+
+✨ Every creation is handmade with love, creativity and care.
+
 ## 👩‍💻 Project Team & Contributions
 
 | Team Member | Contribution |
